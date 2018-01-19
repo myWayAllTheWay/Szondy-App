@@ -1,5 +1,5 @@
 # Szondy-App
-Profiling with the add of AI
+Profiling 
 
 Purpose:
 1. Predictions by N(n=2) profiles advance. (HI% match).
